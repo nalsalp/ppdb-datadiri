@@ -8,12 +8,14 @@
 </head>
 <body>
     <div>
+        
         <h2>Masuk</h2>
         <form action="">
             <input type="text">
             <input type="text">
             <p>Belum punya akun ?</p><a href="/daftar">daftar</a>
-            <input type="button" value="">
+            <br>
+            <input type="button" value="MASUK">
         </form>
     </div>
 </body>
